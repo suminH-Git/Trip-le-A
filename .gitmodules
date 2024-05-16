@@ -1,0 +1,6 @@
+[submodule "triplea-front"]
+	path = triplea-front
+	url = https://github.com/nayechan/triplea-front
+[submodule "triplea-back"]
+	path = triplea-back
+	url = https://github.com/duse133/triplea-back.git

@@ -11,7 +11,7 @@ Trip:lenner은 여행을 더 편리하고 즐겁게 만드는 웹 서비스입�
 
 ## 사용된 기술
 
-- **개발 환경**: [Amazon Linux](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white), Windows
+- **개발 환경**: (https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white), Windows
 - **언어**: JAVA, JavaScript, SQL
 - **개발 도구**: IntelliJ, Visual Studio Code, AWS
 - **데이터베이스**: MySQL

@@ -1,6 +1,5 @@
 # Trip:lenner
-
-![Trip:lenner 로고](https://example.com/path/to/logo.png)
+![스크린샷 2024-05-23 153008](https://github.com/suminH-Git/Trip-le-A/assets/149754945/b7063f61-ea3d-48fa-911f-aee69f15f22c)
 
 Trip:lenner은 여행을 더 편리하고 즐겁게 만드는 웹 서비스입니다. 이 서비스는 강도, 여행 목적지 및 숙박 장소를 고려하여 최적의 여행 경로를 자동으로 추천하고 생성합니다. 사용자는 생성된 경로를 자유롭게 편집하여 자신만의 완벽한 여행 일정을 만들 수 있습니다.
 

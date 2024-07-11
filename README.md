@@ -50,19 +50,7 @@ Trip:lenner은 여행을 더 편리하고 즐겁게 만드는 웹 서비스입�
 ### [여행지 자세히보기(수정, 삭제, 검색)]
 ![여행지루트수정및검색화면](https://github.com/suminH-Git/Trip-le-A/assets/149754945/7bff2af5-f300-43f7-8ed3-917037d208eb)
 
-### [여행지 수정화면]
-![여행지수정화면](https://github.com/suminH-Git/Trip-le-A/assets/149754945/14185221-61ef-47e2-aa6b-8e0a9c82eb0c)
-
-### [여행지 정보 검색화면]
-![여행지정보검색화면](https://github.com/suminH-Git/Trip-le-A/assets/149754945/65d55f8d-2ff9-427a-9ae1-60ba74efce94)
-![여행지정보검색화면2](https://github.com/suminH-Git/Trip-le-A/assets/149754945/dae3c794-ccf4-4325-b260-40da6b3b40f5)
-
-### [여행지 추가화면]
-![여행지추가화면](https://github.com/suminH-Git/Trip-le-A/assets/149754945/eaca781d-76bd-470b-b8d6-98ddf4ecb314)
-
-### [여행지 내보내기 화면]
-![여행지내보내기1](https://github.com/suminH-Git/Trip-le-A/assets/149754945/eeb3809a-e3ae-4c50-9953-3b45739d4ce0)
-![여행지내보내기2](https://github.com/suminH-Git/Trip-le-A/assets/149754945/800c8161-241b-4793-8947-8452365f12f1)
+### [여행지 수정장]
 ![여행지내보내기3](https://github.com/suminH-Git/Trip-le-A/assets/149754945/45a09830-f147-42b7-9667-b40ed1b49797)
 
 ### [문의 화면]
